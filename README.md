@@ -1,2 +1,1 @@
-# mind-body
-Minimalist website (one-page)
+Minimalist website Mind&Body (one-page)
